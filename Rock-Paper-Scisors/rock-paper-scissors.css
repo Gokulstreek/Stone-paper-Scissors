@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(73, 162, 150);
+  color: white;
+  font-family: Roboto,Arial;
+  font-size:25px;
+  text-align: center;
+}
+
+.titie {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.move-icon {
+  height: 50px;
+}
+
+.move-button {
+  background-color: transparent;
+  border: 2.5px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 16px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.result {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+
+}
+
+.score {
+  margin-top: 60px;
+}
+
+.reset-icon {
+  font-family: Roboto,Arial;
+  background-color: white;
+  border: none;
+  font-size: 20px;
+  padding: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 30px;
+}
